@@ -1,8 +1,8 @@
 """
 Created on Tue Jan 11 20:16:32 2022
-
 @author: crist
 """
+
 import tkinter as tk
 from tkinter import ttk
 def ventanaPrincipal():
